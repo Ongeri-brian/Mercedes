@@ -9,7 +9,7 @@
   "stack": "container",
   "env": { 
       "SESSION_ID": {
-      "description": "your session id",
+      "description": "Ethix-MD&pn0fQQah",
       "required": true,
       "value": ""
     },
@@ -31,7 +31,7 @@
     "AUTOLIKE_EMOJI": {
       "description": "Input your custom status like emoji else leave blank to use default => 🐥",
       "required": false,
-      "value": "🐥"
+      "value": "💜🦋"
     },
     "AUTO_REPLY_STATUS": {
       "description": "make it true if you want the bot to send message after viewing status else leave blank",
@@ -41,7 +41,7 @@
     "SUDO_NUMBERS": {
       "description": "Put Sudo Numbers separated by comma Here. Sudos are limited to owner commands else leave blank",
       "required": false,
-      "value": "254740007567"
+      "value": "254713145618"
     },
     "AUTO_READ": {
       "description": "make it true if you want bot to read message",
